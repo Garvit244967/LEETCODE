@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Garvit244967/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Garvit244967/LEETCODE/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Garvit244967/LEETCODE/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Garvit244967/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Garvit244967/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Garvit244967/LEETCODE/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Garvit244967/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Garvit244967/LEETCODE/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Garvit244967/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Garvit244967/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Garvit244967/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Garvit244967/LEETCODE/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Garvit244967/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Garvit244967/LEETCODE/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Garvit244967/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
