@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Garvit244967/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Garvit244967/LEETCODE/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Garvit244967/LEETCODE/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Garvit244967/LEETCODE/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Garvit244967/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Garvit244967/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Garvit244967/LEETCODE/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Garvit244967/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Garvit244967/LEETCODE/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Garvit244967/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Garvit244967/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Garvit244967/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Garvit244967/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Garvit244967/LEETCODE/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Garvit244967/LEETCODE/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Garvit244967/LEETCODE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Garvit244967/LEETCODE/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Garvit244967/LEETCODE/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Garvit244967/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Garvit244967/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Garvit244967/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Garvit244967/LEETCODE/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Garvit244967/LEETCODE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
