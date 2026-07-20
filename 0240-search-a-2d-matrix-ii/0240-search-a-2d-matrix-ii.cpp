@@ -4,9 +4,18 @@ public:
         int n = matrix.size();
         int m = matrix[0].size();
 
-        for(int rows = 0; rows < n; rows++){
-            for(int cols = 0; cols < m; cols++){
-                if(matrix[rows][cols] == target) return true;
+        int row = 0;
+        int col = m - 1;
+
+        while(row < n && col >= 0){
+            if(matrix[row][col] == target){
+                return true;
+            }
+            else if(matrix[row][col] > target){
+                col--;
+            }
+            else{
+                row++;
             }
         }
         return false;
