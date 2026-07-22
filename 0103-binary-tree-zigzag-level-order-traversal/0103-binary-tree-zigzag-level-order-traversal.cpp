@@ -7,24 +7,29 @@ public:
         queue<TreeNode*> q;
         q.push(root);
 
+        int level = 0;
         bool leftToRight = true;
         while(!q.empty()){
             int size = q.size();
-            vector<int> level(size);
+            vector<int> temp;
 
             for(int i = 0; i < size; i++){
                 TreeNode* node = q.front();
                 q.pop();
 
-                int index = leftToRight ? i : size - 1 - i;
-                level[index] = node->val;
-
-                if(node->left) q.push(node->left);
-                if(node->right) q.push(node->right); 
+                temp.push_back(node->val);
+                if(node->left){
+                    q.push(node->left);
+                }
+                if(node->right){
+                    q.push(node->right);
+                }
             }
-            leftToRight = !leftToRight;
-
-            result.push_back(level);
+            if(level % 2 == 1){
+                reverse(temp.begin() , temp.end());
+            }
+            result.push_back(temp);
+            level++;
         }
         return result;
     }
