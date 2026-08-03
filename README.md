@@ -219,5 +219,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3110-score-of-a-string](https://github.com/Garvit244967/LEETCODE/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/Garvit244967/LEETCODE/tree/master/3136-valid-word) |
 <!---LeetCode Topics End-->
