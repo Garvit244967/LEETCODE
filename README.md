@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Garvit244967/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Garvit244967/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Garvit244967/LEETCODE/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Garvit244967/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Garvit244967/LEETCODE/tree/master/0268-missing-number) |
 | [0930-binary-subarrays-with-sum](https://github.com/Garvit244967/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Garvit244967/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Garvit244967/LEETCODE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Garvit244967/LEETCODE/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Garvit244967/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Garvit244967/LEETCODE/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Garvit244967/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Garvit244967/LEETCODE/tree/master/0242-valid-anagram) |
 | [3110-score-of-a-string](https://github.com/Garvit244967/LEETCODE/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/Garvit244967/LEETCODE/tree/master/3136-valid-word) |
 ## Binary Lifting
