@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Garvit244967/LEETCODE/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/Garvit244967/LEETCODE/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Garvit244967/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/Garvit244967/LEETCODE/tree/master/0500-keyboard-row) |
 | [0704-binary-search](https://github.com/Garvit244967/LEETCODE/tree/master/0704-binary-search) |
 | [0930-binary-subarrays-with-sum](https://github.com/Garvit244967/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Garvit244967/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Garvit244967/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Garvit244967/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Garvit244967/LEETCODE/tree/master/0268-missing-number) |
+| [0500-keyboard-row](https://github.com/Garvit244967/LEETCODE/tree/master/0500-keyboard-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Garvit244967/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0930-binary-subarrays-with-sum](https://github.com/Garvit244967/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Garvit244967/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Garvit244967/LEETCODE/tree/master/0242-valid-anagram) |
+| [0500-keyboard-row](https://github.com/Garvit244967/LEETCODE/tree/master/0500-keyboard-row) |
 | [3110-score-of-a-string](https://github.com/Garvit244967/LEETCODE/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/Garvit244967/LEETCODE/tree/master/3136-valid-word) |
 ## Binary Lifting
