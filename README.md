@@ -274,4 +274,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Garvit244967/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Garvit244967/LEETCODE/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Garvit244967/LEETCODE/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
