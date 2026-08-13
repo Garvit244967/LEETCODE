@@ -4,7 +4,7 @@ public:
         int n = nums.size();
         vector<int> pos;
         vector<int> neg;
-
+        vector<int> result;
         for(int i = 0; i < n; i++){
             if(nums[i] > 0){
                 pos.push_back(nums[i]);
@@ -13,15 +13,13 @@ public:
                 neg.push_back(nums[i]);
             }
         }
-        vector<int> result(n);
-        int l = 0;
-        int r = 0;
-        for(int i = 0; i < n; i++){
-            if(i % 2 == 0){
-                result[i] = pos[l++];
+        int p = 0, ne = 0;
+        for(int i = 0; i < n; i++) {
+            if(i % 2 == 0) {
+                result.push_back(pos[p++]);
             }
-            else{
-                result[i] = neg[r++];
+            else {
+                result.push_back(neg[ne++]);
             }
         }
         return result;
