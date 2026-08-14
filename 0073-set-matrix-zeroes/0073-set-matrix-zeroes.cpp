@@ -4,21 +4,21 @@ public:
         int n = matrix.size();
         int m = matrix[0].size();
 
-        vector<int> row(n,0) , col(m,0);
-        for(int rows = 0; rows < n; rows++){
-            for(int cols = 0; cols < m; cols++){
-                if(matrix[rows][cols] == 0){
-                    row[rows] = -1;
-                    col[cols] = -1;
+        vector<int> rows(n,0) , cols(m,0);
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < m; j++){
+                if(matrix[i][j] == 0){
+                    rows[i] = -1;
+                    cols[j] = -1;
                 }
             }
         }
-        for(int rows = 0; rows < n; rows++){
-            for(int cols = 0; cols < m; cols++){
-                if(row[rows] == -1 || col[cols] == -1){
-                    matrix[rows][cols] = 0;
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < m; j++){
+                if(rows[i] == -1 || cols[j] == -1){
+                    matrix[i][j] = 0;
                 }
             }
-        }
+        }   
     }
 };
