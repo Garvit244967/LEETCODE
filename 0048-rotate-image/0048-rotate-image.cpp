@@ -4,13 +4,13 @@ public:
         int n = matrix.size();
         int m = matrix[0].size();
 
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < i; j++){
-                swap(matrix[i][j] , matrix[j][i]);
+        for(int rows = 0; rows < n; rows++){
+            for(int cols = 0; cols < rows; cols++){
+                swap(matrix[rows][cols] , matrix[cols][rows]);
             }
         }
-        for(int i = 0; i < n; i++){
-            reverse(matrix[i].begin() , matrix[i].end());
+        for(int rows = 0; rows < n; rows++){
+            reverse(matrix[rows].begin() , matrix[rows].end());
         }
     }
 };
