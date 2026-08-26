@@ -3,8 +3,8 @@ class Solution {
         int n = nums1.length;
         int m = nums2.length;
 
-        Arrays.sort(nums1);
-        Arrays.sort(nums2);
+        // Arrays.sort(nums1);
+        // Arrays.sort(nums2);
 
         HashSet<Integer> s1 = new HashSet<>();
         for(int n1 : nums1){
