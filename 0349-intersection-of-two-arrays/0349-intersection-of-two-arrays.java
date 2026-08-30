@@ -3,9 +3,6 @@ class Solution {
         int n = nums1.length;
         int m = nums2.length;
 
-        // Arrays.sort(nums1);
-        // Arrays.sort(nums2);
-
         HashSet<Integer> s1 = new HashSet<>();
         for(int n1 : nums1){
             s1.add(n1);
@@ -14,21 +11,18 @@ class Solution {
         for(int n2 : nums2){
             s2.add(n2);
         }
-
         HashSet<Integer> s3 = new HashSet<>();
         for(int num : s1){
             if(s2.contains(num)){
                 s3.add(num);
             }
         }
-
-        int[] result = new int[s3.size()];
         int i = 0;
-
+        int[] result = new int[s3.size()];
+        
         for(int num : s3){
             result[i++] = num;
         }
-
         return result;
     }
 }
