@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Garvit244967/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Garvit244967/LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Garvit244967/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/Garvit244967/LEETCODE/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Garvit244967/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Garvit244967/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Garvit244967/LEETCODE/tree/master/0268-missing-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Garvit244967/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Garvit244967/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Garvit244967/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/Garvit244967/LEETCODE/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Garvit244967/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Garvit244967/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Garvit244967/LEETCODE/tree/master/0268-missing-number) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Garvit244967/LEETCODE/tree/master/0220-contains-duplicate-iii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Garvit244967/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 ## Prefix Sum
 |  |
@@ -397,4 +400,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Garvit244967/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Garvit244967/LEETCODE/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Garvit244967/LEETCODE/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
