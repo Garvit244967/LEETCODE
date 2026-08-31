@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Garvit244967/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Garvit244967/LEETCODE/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Garvit244967/LEETCODE/tree/master/0705-design-hashset) |
+| [0832-flipping-an-image](https://github.com/Garvit244967/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Garvit244967/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/Garvit244967/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/Garvit244967/LEETCODE/tree/master/0994-rotting-oranges) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Garvit244967/LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Garvit244967/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Garvit244967/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0832-flipping-an-image](https://github.com/Garvit244967/LEETCODE/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Garvit244967/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Garvit244967/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0832-flipping-an-image](https://github.com/Garvit244967/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Garvit244967/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Garvit244967/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Garvit244967/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Garvit244967/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Garvit244967/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Garvit244967/LEETCODE/tree/master/0463-island-perimeter) |
+| [0832-flipping-an-image](https://github.com/Garvit244967/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Garvit244967/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Garvit244967/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/Garvit244967/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Garvit244967/LEETCODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Garvit244967/LEETCODE/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/Garvit244967/LEETCODE/tree/master/0832-flipping-an-image) |
 ## Sliding Window
 |  |
 | ------- |
