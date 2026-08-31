@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Garvit244967/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Garvit244967/LEETCODE/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Garvit244967/LEETCODE/tree/master/0705-design-hashset) |
+| [0867-transpose-matrix](https://github.com/Garvit244967/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/Garvit244967/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/Garvit244967/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Garvit244967/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Garvit244967/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/Garvit244967/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Garvit244967/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Garvit244967/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Garvit244967/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Garvit244967/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Garvit244967/LEETCODE/tree/master/0463-island-perimeter) |
+| [0867-transpose-matrix](https://github.com/Garvit244967/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Garvit244967/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/Garvit244967/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/Garvit244967/LEETCODE/tree/master/2643-row-with-maximum-ones) |
