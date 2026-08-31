@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Garvit244967/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/Garvit244967/LEETCODE/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/Garvit244967/LEETCODE/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Garvit244967/LEETCODE/tree/master/0796-rotate-string) |
 | [3110-score-of-a-string](https://github.com/Garvit244967/LEETCODE/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/Garvit244967/LEETCODE/tree/master/3136-valid-word) |
 ## Binary Lifting
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Garvit244967/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Garvit244967/LEETCODE/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
