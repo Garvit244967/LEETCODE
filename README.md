@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Garvit244967/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Garvit244967/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/Garvit244967/LEETCODE/tree/master/0705-design-hashset) |
+| [0876-middle-of-the-linked-list](https://github.com/Garvit244967/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Garvit244967/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Garvit244967/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0832-flipping-an-image](https://github.com/Garvit244967/LEETCODE/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/Garvit244967/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Garvit244967/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
