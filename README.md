@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Garvit244967/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Garvit244967/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/Garvit244967/LEETCODE/tree/master/0705-design-hashset) |
 ## Math
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Garvit244967/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Garvit244967/LEETCODE/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Garvit244967/LEETCODE/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
 | ------- |
