@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Garvit244967/LEETCODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Garvit244967/LEETCODE/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Garvit244967/LEETCODE/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Garvit244967/LEETCODE/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Garvit244967/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/Garvit244967/LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Garvit244967/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Garvit244967/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Garvit244967/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Garvit244967/LEETCODE/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Garvit244967/LEETCODE/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Garvit244967/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/Garvit244967/LEETCODE/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/Garvit244967/LEETCODE/tree/master/0541-reverse-string-ii) |
