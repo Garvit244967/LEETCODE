@@ -1,34 +1,52 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
-    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* dummy = new ListNode();
-        ListNode* temp = dummy;
+    string addStrings(string s1 , string s2){
+         int i = s1.size() - 1;
+        int j = s2.size() - 1;
         int carry = 0;
 
-        while(l1 != NULL || l2 != NULL || carry){
-            int sum = 0;
-            if(l1 != NULL){
-                sum += l1->val;
-                l1 = l1->next;
+        string ans = "";
+        while(i >= 0 || j >= 0 || carry) {
+            int sum = carry;
+            if(i >= 0) {
+                sum += s1[i] - '0';
+                i--;
             }
-            if(l2 != NULL){
-                sum += l2->val;
-                l2 = l2->next;
+            if(j >= 0) {
+                sum += s2[j] - '0';
+                j--;
             }
-            sum += carry;
+            ans += char((sum % 10) + '0');
             carry = sum / 10;
-            ListNode* node = new ListNode(sum % 10);
-            temp->next = node;
+        }
+        reverse(ans.begin(), ans.end());
+        return ans;
+    }
+    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        string s1 = "";
+        string s2 = "";
+
+        ListNode* temp1 = l1;
+        while(temp1 != NULL){
+            s1 += to_string(temp1->val);
+            temp1 = temp1->next;
+        }
+        ListNode* temp2 = l2;
+        while(temp2 != NULL){
+            s2 += to_string(temp2->val);
+            temp2 = temp2->next;
+        }
+        reverse(s1.begin() , s1.end());
+        reverse(s2.begin() , s2.end());
+
+        string sum = addStrings(s1,s2);
+        reverse(sum.begin() , sum.end());
+
+        ListNode* dummy = new ListNode(0);
+        ListNode* temp = dummy;
+
+        for(char ch : sum){
+            temp->next = new ListNode(ch - '0');
             temp = temp->next;
         }
         return dummy->next;
