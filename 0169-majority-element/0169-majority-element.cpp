@@ -1,15 +1,21 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int x = nums.size() / 2;
-        unordered_map<int,int> freq;
+        int n = nums.size();
+        int candidate = 0;
+        int balance = 0;
 
-        for(int values : nums){
-            freq[values]++;
-            if(freq[values] > x){
-                return values;
+        for(int value : nums){
+            if(balance == 0){
+                candidate = value;
+            }
+            if(value == candidate){
+                balance++;
+            }
+            else{
+                balance--;
             }
         }
-        return -1;
+        return candidate;
     }
 };
