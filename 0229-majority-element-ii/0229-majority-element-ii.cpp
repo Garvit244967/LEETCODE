@@ -2,24 +2,24 @@ class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
         int n = nums.size();
-        int cand1 = 0;
-        int cand2 = 0;
+        int cand1 = nums[0];
+        int cand2 = nums[0];
         int count1 = 0;
         int count2 = 0;
 
-        for(int num : nums){
-            if(num == cand1){
+        for(int value : nums){
+            if(value == cand1){
                 count1++;
             }
-            else if(num == cand2){
+            else if(value == cand2){
                 count2++;
             }
             else if(count1 == 0){
-                cand1 = num;
+                cand1 = value;
                 count1 = 1;
             }
             else if(count2 == 0){
-                cand2 = num;
+                cand2 = value;
                 count2 = 1;
             }
             else{
