@@ -10,7 +10,7 @@ public:
             if(nums[mid] < mini){
                 mini = nums[mid];
             }
-            else if(nums[low] <= nums[low]){
+            else if(nums[low] <= nums[mid]){
                 mini = min(mini , nums[low]);
                 low = mid + 1;
             }
