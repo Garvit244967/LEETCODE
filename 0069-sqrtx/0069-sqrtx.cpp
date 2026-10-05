@@ -3,13 +3,13 @@ public:
     int mySqrt(int x) {
         int low = 0;
         int high = x;
-        int ans = x;
+        int ans = 0;
         while(low <= high){
-            long long mid = low + (high - low) / 2;
-            if(mid * mid == x){
+            int mid = low + (high - low) / 2;
+            if(1LL * mid * mid == x){
                 return mid;
             }
-            else if(mid * mid < x){
+            else if(1LL * mid * mid < x){
                 ans = mid;
                 low = mid + 1;
             }
