@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Garvit244967/LEETCODE/tree/master/0705-design-hashset) |
 | [0832-flipping-an-image](https://github.com/Garvit244967/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Garvit244967/LEETCODE/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Garvit244967/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/Garvit244967/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/Garvit244967/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Garvit244967/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Garvit244967/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Garvit244967/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Garvit244967/LEETCODE/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Garvit244967/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Garvit244967/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/Garvit244967/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
