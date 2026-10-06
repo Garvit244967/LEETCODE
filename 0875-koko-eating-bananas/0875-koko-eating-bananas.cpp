@@ -13,7 +13,7 @@ public:
         int high = maxPile;
         int ans = maxPile;
 
-        while(low < high){
+        while(low <= high){
             int mid = (low + high) / 2;
             long long total_hours(calculate_total_hours(piles,mid));
             if(total_hours <= h){
