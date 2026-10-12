@@ -7,7 +7,6 @@ class Solution {
         char[] arr = res.toCharArray();
         int low = 0;
         int high = res.length() - 1;
-
         while(low <= high){
             char temp = arr[low];
             arr[low] = arr[high];
