@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Garvit244967/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Garvit244967/LEETCODE/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Garvit244967/LEETCODE/tree/master/0705-design-hashset) |
+| [0766-toeplitz-matrix](https://github.com/Garvit244967/LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Garvit244967/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Garvit244967/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Garvit244967/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Garvit244967/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Garvit244967/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Garvit244967/LEETCODE/tree/master/0463-island-perimeter) |
+| [0766-toeplitz-matrix](https://github.com/Garvit244967/LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Garvit244967/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Garvit244967/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Garvit244967/LEETCODE/tree/master/0994-rotting-oranges) |
