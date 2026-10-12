@@ -5,7 +5,7 @@ class Solution {
 
         if(n != m) return false;
 
-        String doubled = s + s;
-        return doubled.contains(goal);
+        String s1 = s + s;
+        return s1.contains(goal);
     }
 }
