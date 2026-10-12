@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Garvit244967/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Garvit244967/LEETCODE/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Garvit244967/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2129-capitalize-the-title](https://github.com/Garvit244967/LEETCODE/tree/master/2129-capitalize-the-title) |
 | [3110-score-of-a-string](https://github.com/Garvit244967/LEETCODE/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/Garvit244967/LEETCODE/tree/master/3136-valid-word) |
 ## Binary Lifting
