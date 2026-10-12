@@ -1,23 +1,23 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        ListNode* d1 = headA;
-        ListNode* d2 = headB;
+        ListNode* slow = headA;
+        ListNode* fast = headB;
 
-        while(d1 != d2){
-            if(d1 == NULL){
-                d1 = headB;
+        while(slow != fast){
+            if(slow == NULL){
+                slow = headB;
             }
             else{
-                d1 = d1->next;
+                slow = slow->next;
             }
-            if(d2 == NULL){
-                d2 = headA;
+            if(fast == NULL){
+                fast = headA;
             }
             else{
-                d2 = d2->next;
+                fast = fast->next;
             }
         }
-        return d1;
+        return slow;
     }
 };
