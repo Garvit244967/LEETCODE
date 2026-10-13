@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Garvit244967/LEETCODE/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Garvit244967/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Garvit244967/LEETCODE/tree/master/0493-reverse-pairs) |
+| [0498-diagonal-traverse](https://github.com/Garvit244967/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Garvit244967/LEETCODE/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Garvit244967/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Garvit244967/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Garvit244967/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Garvit244967/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/Garvit244967/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Garvit244967/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Garvit244967/LEETCODE/tree/master/1920-build-array-from-permutation) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Garvit244967/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Garvit244967/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Garvit244967/LEETCODE/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/Garvit244967/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/Garvit244967/LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Garvit244967/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Garvit244967/LEETCODE/tree/master/0867-transpose-matrix) |
