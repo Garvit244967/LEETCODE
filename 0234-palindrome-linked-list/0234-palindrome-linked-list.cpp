@@ -7,16 +7,8 @@ public:
             result += to_string(temp->val);
             temp = temp->next;
         }
-        int low = 0;
-        int high = result.length() - 1;
-        while(low <= high){
-            if(result[low] != result[high]){
-                return false;
-            }
-
-            low++;
-            high--;
-        }
-        return true;
+        string original = result;
+        reverse(result.begin() , result.end());
+        return result == original;
     }
 };
