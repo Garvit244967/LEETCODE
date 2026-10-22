@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Garvit244967/LEETCODE/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Garvit244967/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Garvit244967/LEETCODE/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/Garvit244967/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Garvit244967/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Garvit244967/LEETCODE/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Garvit244967/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Garvit244967/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Garvit244967/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Garvit244967/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Garvit244967/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Garvit244967/LEETCODE/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Garvit244967/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Garvit244967/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Garvit244967/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Garvit244967/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Garvit244967/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Garvit244967/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Garvit244967/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Garvit244967/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Garvit244967/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Garvit244967/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
