@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Garvit244967/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Garvit244967/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Garvit244967/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Garvit244967/LEETCODE/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Garvit244967/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Garvit244967/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Garvit244967/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Garvit244967/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Garvit244967/LEETCODE/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Garvit244967/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Garvit244967/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Garvit244967/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/Garvit244967/LEETCODE/tree/master/0705-design-hashset) |
+| [0901-online-stock-span](https://github.com/Garvit244967/LEETCODE/tree/master/0901-online-stock-span) |
 ## Iterator
 |  |
 | ------- |
@@ -548,4 +551,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Garvit244967/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Garvit244967/LEETCODE/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
