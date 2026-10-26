@@ -5,6 +5,7 @@ public:
         vector<int> pos;
         vector<int> neg;
         vector<int> result;
+
         for(int i = 0; i < n; i++){
             if(nums[i] > 0){
                 pos.push_back(nums[i]);
@@ -13,14 +14,9 @@ public:
                 neg.push_back(nums[i]);
             }
         }
-        int p = 0, ne = 0;
-        for(int i = 0; i < n; i++) {
-            if(i % 2 == 0) {
-                result.push_back(pos[p++]);
-            }
-            else {
-                result.push_back(neg[ne++]);
-            }
+        for(int i = 0; i < pos.size(); i++){
+            result.push_back(pos[i]);
+            result.push_back(neg[i]);
         }
         return result;
     }
