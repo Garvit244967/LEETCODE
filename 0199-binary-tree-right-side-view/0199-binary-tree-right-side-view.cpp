@@ -1,12 +1,12 @@
 class Solution {
 public:
-    void rightDFS(TreeNode* node , int level , vector<int>& result){
-        if(node == NULL) return;
+    void rightDFS(TreeNode* root , int level , vector<int>& result){
+        if(root == NULL) return;
         if(result.size() == level){
-            result.push_back(node->val);
+            result.push_back(root->val);
         }
-        rightDFS(node->right , level + 1 , result);
-        rightDFS(node->left , level + 1 , result);
+        rightDFS(root->right , level + 1 , result);
+        rightDFS(root->left , level + 1 , result);
     }
     vector<int> rightSideView(TreeNode* root) {
         vector<int> result;
