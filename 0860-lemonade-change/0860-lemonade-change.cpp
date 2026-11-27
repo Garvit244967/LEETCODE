@@ -20,9 +20,9 @@ public:
                 }
             }
             else{
-                if(ten > 0 && five > 0){
-                    ten--;
+                if(five > 0 && ten > 0){
                     five--;
+                    ten--;
                 }
                 else if(five >= 3){
                     five -= 3;
